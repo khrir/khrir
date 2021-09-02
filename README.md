@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, homie! 👋
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Golang and SQL.
 - 📫 How to reach me: @Khrir18
