@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/khrir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khrir&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrir&layout=compact&langs_count=16&theme=kacho_ga"/>
 </div>
   
 <div style="display: inline-block"><br>
