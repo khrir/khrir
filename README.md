@@ -2,8 +2,8 @@
 
 <div class="container">
     <a href="https://github.com/khrir">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khrir&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrir&layout=compact&langs_count=7&theme=kacho_ga&hide=jupyter%20notebook,css,html"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khrir&show_icons=true&layout=compact&theme=kacho_ga&bg_color=010101&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrir&layout=compact&bg_color=010101&langs_count=7&theme=kacho_ga&hide=jupyter%20notebook,css,html"/>
   
 <div style="display: inline-block"><br>
   <img align="center" alt="Khrir-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,6 +15,4 @@
   <img align="center" alt="Khrir-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
  
-  ##
-  
                                                                  
